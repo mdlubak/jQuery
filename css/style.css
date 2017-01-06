@@ -1,0 +1,19 @@
+#carousel {
+	margin: 0 auto;
+	text-align: center;
+	width: 400px;
+	height: 300px;
+	border: 2px solid grey;
+	overflow: hidden;
+}
+ul {
+	width: 2000px;
+	margin: 0;
+	padding: 0;
+}
+li {
+	width: auto;
+	height: auto;
+	list-style: none;
+	float: left;
+}
